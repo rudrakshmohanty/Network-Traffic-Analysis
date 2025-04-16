@@ -1,6 +1,6 @@
 # Network Traffic Analyzer
 
-![Network Analysis](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-ob7miW3mUreePYfXdVwkpFWHthzoR5.svg?height=200&width=800)
+![Network Analysis](https://github.com/rudrakshmohanty/Network-Traffic-Analysis/blob/main/assests/Gemini_Generated_Image_bybkbmbybkbmbybk.jpeg)
 
 A high-performance, memory-efficient network traffic analysis tool built with PySpark and Scapy for processing large PCAP files and real-time network streams.
 
