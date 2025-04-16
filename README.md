@@ -1,4 +1,4 @@
-# Memory-Efficient Network Traffic Analyzer
+# Network Traffic Analyzer
 
 ![Network Analysis](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-ob7miW3mUreePYfXdVwkpFWHthzoR5.svg?height=200&width=800)
 
@@ -17,7 +17,7 @@ A high-performance, memory-efficient network traffic analysis tool built with Py
 
 The analyzer generates an interactive HTML dashboard that provides comprehensive visualizations of your network traffic data.
 
-![Dashboard Preview](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-ob7miW3mUreePYfXdVwkpFWHthzoR5.svg?height=400&width=800)
+![Dashboard Preview](https://github.com/rudrakshmohanty/Network-Traffic-Analysis/Screenshot from 2025-04-16 23-34-23.png)
 
 ### Dashboard Features:
 
