@@ -17,7 +17,7 @@ A high-performance, memory-efficient network traffic analysis tool built with Py
 
 The analyzer generates an interactive HTML dashboard that provides comprehensive visualizations of your network traffic data.
 
-![Dashboard Preview](https://github.com/rudrakshmohanty/Network-Traffic-Analysis/blob/main/Screenshot%20from%202025-04-16%2023-34-23.png)
+![Dashboard Preview](https://github.com/rudrakshmohanty/Network-Traffic-Analysis/blob/main/assests/Screenshot%20from%202025-04-16%2023-34-23.png)
 
 ### Dashboard Features:
 
